@@ -1,0 +1,23 @@
+Date,Category,Amount,Payment_Method,Joy_Rating
+2026-01-01,Food,25.50,Credit Card,5
+2026-01-02,Transport,45.00,Debit Card,2
+2026-01-03,Food,12.00,Cash,4
+2026-01-04,Groceries,85.20,Credit Card,3
+2026-01-06,Food,15.75,Credit Card,4
+2026-01-07,Entertainment,20.00,Debit Card,5
+2026-01-09,Transport,30.00,Credit Card,3
+2026-01-11,Food,9.50,Cash,3
+2026-01-12,Utilities,120.00,Autopay,1
+2026-01-13,Food,22.00,Credit Card,2
+2026-01-14,Healthcare,55.00,Debit Card,1
+2026-01-15,Groceries,42.10,Credit Card,4
+2026-01-17,Food,35.00,Credit Card,5
+2026-01-19,Transport,40.00,Debit Card,2
+2026-01-20,Food,14.00,Cash,4
+2026-01-21,Groceries,65.00,Credit Card,3
+2026-01-23,Food,18.50,Credit Card,5
+2026-01-24,Entertainment,60.00,Credit Card,5
+2026-01-26,Transport,45.00,Debit Card,2
+2026-01-27,Food,11.00,Cash,3
+2026-01-28,Healthcare,15.00,Debit Card,2
+2026-01-30,Groceries,38.00,Credit Card,4
