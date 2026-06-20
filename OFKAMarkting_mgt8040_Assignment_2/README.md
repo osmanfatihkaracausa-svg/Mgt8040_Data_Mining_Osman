@@ -3,8 +3,40 @@
 ## Overview
 
 This project was completed for **MGT 8040 – Data Mining & Business Analytics** at **Georgia State University** under **Dr. Lee Frank**.
-
 The objective was to determine whether OFKA's website traffic behaves as a linear or non-linear system by comparing a Multiple Linear Regression (MLR) model with a Random Forest Regression (RF) model.
+
+## Supporting Files
+
+Additional project materials are available in the repository folders.
+
+### Outputs
+
+The Outputs folder contains:
+
+* Final merged dataset
+* Model coefficient tables
+* Delta analysis results
+* Top tipping-point observations
+* Supporting Excel workbooks used during the analysis
+
+### Notebook
+
+The Notebook folder contains the Python/Jupyter Notebook used to perform:
+
+* Data preparation
+* Feature engineering
+* Multiple Linear Regression modeling
+* Random Forest modeling
+* Delta calculations
+
+### Data
+
+The Data folder contains the original source datasets collected from:
+
+* Meta Business Suite
+* Google Analytics / WooCommerce
+
+These files were used to construct the final multi-context dataset analyzed in this project.
 
 ## Dataset
 
